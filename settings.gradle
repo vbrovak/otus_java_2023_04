@@ -3,5 +3,6 @@ include 'hw01-gradle'
 include 'w02-gradle'
 include 'hw-03'
 include 'hw05-gradle'
+include 'hw06-solid'
 include 'hw07-sp'
 
